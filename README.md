@@ -1,6 +1,6 @@
 # Introduction-To-Statistical-Learning
 
-Stanford에서 제공하는 [StatLearning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) 강좌를 듣고 정리한 내용입니다.
+Stanford에서 제공하는 [StatLearning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) 강좌 관련 자료를 모아놓은 repo입니다.
 
 ---
 
@@ -21,6 +21,15 @@ Stanford에서 제공하는 [StatLearning](https://lagunita.stanford.edu/courses
 - Extensions of Linear Model
 - Linear Regression in R
 ### 4. Classification
+- Introduction to Classification Problems
+- Logistic Regression
+- Multivariate Regression
+- Logistic Regression - Case-Control Sampling and Multiclass
+- Discriminant Analysis
+- Gaussian Discriminant Analysis - One variable
+- Gaussian Discriminant Analysis - Many variables
+- Quadratic Discriminant Analysis and Naive Bayes
+- R Classification in R
 ### 5. Resampling Methods
 ### 6. Linear Model Selection & Regularization
 ### 7. Moving Beyond Linearity
